@@ -3,7 +3,7 @@ Hi, I Want to become an WebDev Intern in June 2020, wish me luck!
 
 ## 1. HTML 
 
-[ ]  Learn the bacisc  
+[x]  Learn the bacisc  
 [ ] Writing Semantic HTML  
 [ ] Forms and Validations  
 [ ] Conventions and Best Practises  
